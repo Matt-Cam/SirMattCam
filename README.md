@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SirMattCam
 - 👀 I’m interested in full stack web application development. A beautiful frontend is nothing without an elegant backend.
-- 🌱 I’m currently hacking NodeJS
-- 💞️ I’m looking to collaborate on anything, but I am specialized in the web app space.
+- 🌱 I’m currently hacking with NodeJS and Java. I love Vue and React on the frontend.
+- 💞️ I’m open to collaborate on anything, from Rasberry PI robots to web apps.
 - 📫 How to reach me, LinkedIn: https://www.linkedin.com/in/matt--cameron/
 
 <!---
