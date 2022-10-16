@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matt
 - 👀 I’m interested in surfing, running, and tinkering.
-- 🌱 I’m currently learning Java with Spring after being focused on Python/JavaScript/TypeScript for the past 3 years. 
+- 🌱 I’m currently getting a deeper understanding of NoSQL. My main languages are Java/Python/JavaScript/TypeScript. 
 - 💞️ I’m open to collaborate on anything, including Rasberry PI hacks, bots, and UX development in React/Vue.
 - 📫 How to reach me, LinkedIn: https://www.linkedin.com/in/matt--cameron/
 
